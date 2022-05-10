@@ -1,1 +1,1 @@
-# Kerri-Web-2-In-Class
+# Kerri-Web-2-Reskin
